@@ -1,2 +1,2 @@
 # Python-Exercises
-This is a compilation of python exercises
+This is a compilation of python 3 exercises
